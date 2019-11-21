@@ -47,4 +47,4 @@ tracks:
     ros_distro: dashing
     vcs_type: git
     vcs_uri: https://github.com/esol-community/ament_virtualenv.git
-    version: :{auto}
+    version: 0.0.2
