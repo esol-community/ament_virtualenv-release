@@ -1,3 +1,32 @@
+## ament_virtualenv (crystal) - 0.0.3-2
+
+The packages in the `ament_virtualenv` repository were released into the `crystal` distro by running `/usr/bin/bloom-release ament_virtualenv --track crystal --rosdistro crystal --new-track` on `Wed, 04 Dec 2019 08:18:56 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.2-1`
+- old version: `0.0.3-1`
+- new version: `0.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## ament_virtualenv (crystal) - 0.0.3-1
 
 The packages in the `ament_virtualenv` repository were released into the `crystal` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro crystal` on `Wed, 04 Dec 2019 08:07:48 -0000`
