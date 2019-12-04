@@ -20,7 +20,7 @@ tracks:
     release_inc: '1'
     release_repo_url: https://github.com/esol-community/ament_virtualenv-release.git
     release_tag: 0.0.3
-    ros_distro: dashing
+    ros_distro: crystal
     vcs_type: git
     vcs_uri: https://github.com/esol-community/ament_virtualenv.git
     version: 0.0.3
