@@ -1,0 +1,12 @@
+Source: ros-dashing-ament-cmake-virtualenv
+Section: misc
+Priority: optional
+Maintainer: Max Krichenbauer <v-krichenbauer7715@esol.co.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-cmake-copyright, ros-dashing-ament-cmake-core, ros-dashing-ament-cmake-lint-cmake, ros-dashing-ament-cmake-test, ros-dashing-ament-virtualenv, ros-dashing-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-dashing-ament-cmake-virtualenv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-ros-workspace
+Description: Bundle python requirements in a ament package via virtualenv.
