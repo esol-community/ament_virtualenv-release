@@ -1,0 +1,12 @@
+Source: ros-crystal-ament-virtualenv
+Section: misc
+Priority: optional
+Maintainer: Max Krichenbauer <v-krichenbauer7715@esol.co.jp>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest, ros-crystal-ament-copyright, ros-crystal-ament-flake8, ros-crystal-ament-pep257, ros-crystal-ros-workspace, python3-all, python3-setuptools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-crystal-ament-virtualenv
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-crystal-ros-workspace
+Description: Bundle python requirements in a ament package via virtualenv.
