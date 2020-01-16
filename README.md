@@ -1,3 +1,32 @@
+## ament_virtualenv (eloquent) - 0.0.5-6
+
+The packages in the `ament_virtualenv` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro eloquent --track eloquent --new-track` on `Thu, 16 Jan 2020 01:28:20 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.5-5`
+- new version: `0.0.5-6`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_virtualenv (dashing) - 0.0.5-5
 
 The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 19:34:26 -0000`
