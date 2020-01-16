@@ -1,0 +1,12 @@
+Source: ros-eloquent-ament-cmake-virtualenv
+Section: misc
+Priority: optional
+Maintainer: Max Krichenbauer <v-krichenbauer7715@esol.co.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-eloquent-ament-cmake-copyright, ros-eloquent-ament-cmake-core, ros-eloquent-ament-cmake-lint-cmake, ros-eloquent-ament-cmake-test, ros-eloquent-ament-virtualenv, ros-eloquent-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-ament-cmake-virtualenv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-ament-virtualenv, ros-eloquent-ros-workspace
+Description: Bundle python requirements in a ament package via virtualenv.
