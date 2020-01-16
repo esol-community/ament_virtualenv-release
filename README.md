@@ -1,3 +1,177 @@
+## ament_virtualenv (dashing) - 0.0.5-5
+
+The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 19:34:26 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-4`
+- new version: `0.0.5-5`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
+## ament_virtualenv (dashing) - 0.0.5-4
+
+The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 10:36:25 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-3`
+- new version: `0.0.5-4`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
+## ament_virtualenv (dashing) - 0.0.5-3
+
+The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 10:14:10 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-2`
+- new version: `0.0.5-3`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
+## ament_virtualenv (dashing) - 0.0.5-2
+
+The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 10:04:42 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-1`
+- new version: `0.0.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
+## ament_virtualenv (crystal) - 0.0.5-1
+
+The packages in the `ament_virtualenv` repository were released into the `crystal` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro crystal --track crystal` on `Fri, 10 Jan 2020 09:59:19 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-0`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
+## ament_virtualenv (dashing) - 0.0.5-1
+
+The packages in the `ament_virtualenv` repository were released into the `dashing` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro dashing --track dashing` on `Fri, 10 Jan 2020 09:57:05 -0000`
+
+These packages were released:
+- `ament_cmake_virtualenv`
+- `ament_virtualenv`
+
+These packages were explicitly ignored:
+- `test_ament_cmake_virtualenv`
+- `test_ament_virtualenv`
+
+Version of package(s) in repository `ament_virtualenv`:
+
+- upstream repository: https://github.com/esol-community/ament_virtualenv.git
+- release repository: https://github.com/esol-community/ament_virtualenv-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.5-0`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.0`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## ament_virtualenv (crystal) - 0.0.4-1
 
 The packages in the `ament_virtualenv` repository were released into the `crystal` distro by running `/usr/bin/bloom-release ament_virtualenv --rosdistro crystal --track crystal` on `Mon, 09 Dec 2019 02:48:37 -0000`
